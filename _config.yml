@@ -55,15 +55,15 @@ headter-tagline: We Always
 ######   CTA Header Buttons   ######
 ####################################
 
-# Focus Buttons
-header-focus-button:
-  title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
-
-# Secondary Buttons
-header-secondary-button:
-  title: Discover More
-  url: http://themeforest.net/user/ohkimur
+## Focus Buttons
+#header-focus-button:
+#  title: Download Now
+#  url: https://themeforest.net/collections/6069390-sera
+#
+## Secondary Buttons
+#header-secondary-button:
+#  title: Discover More
+#  url: http://themeforest.net/user/ohkimur
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -79,12 +79,13 @@ banner-link: https://themeforest.net/collections/6069390-sera
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: "#"
-pinterest: "#"
-facebook: "#"
-twitter: "#"
-google-plus: "#"
-vimeo: "#"
+#socials:
+#  youtube: "#"
+#  pinterest: "#"
+#  facebook: "#"
+#  twitter: "#"
+#  google-plus: "#"
+#  vimeo: "#"
 
 #########################
 ######   Widgets   ######
@@ -129,8 +130,8 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
+about-title: El Truckito
+about-description: Meet Martin and Amy, the digital nomad duo on a boundless adventure with their faithful companion, El Truckito, the GMC Sierra truck camper. Roaming the world as modern-day explorers, they embrace the thrill of the unknown, working remotely and experiencing the richness of diverse cultures. Join their captivating odyssey as they redefine the art of living – free, untethered, and endlessly inspired.
 
 #####################################
 #############  Features  ############
@@ -156,6 +157,25 @@ features:
   - title: Pixel Perfect
     description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
     icon: pe-7s-airplay
+
+#####################################
+############  Media  ############
+#####################################
+media-title: In Media
+media-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+
+#
+# Media Grid
+#
+media-categories:
+  [Podcasts, Magazines, TV, Radio]
+media:
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Podcasts]
+    image: img-01.jpg
+    url: "#"
+
 
 #####################################
 ############  Portfolio  ############
@@ -328,7 +348,7 @@ blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. 
 #####################################
 ############### Team ################
 #####################################
-team-title: Meet Our Team
+team-title: Meet The Crew
 team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 #
@@ -336,56 +356,23 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 #
 team:
   # Team Member
-  - name: Jack Skilton
-    tagline: Graphic Designer
-    avatar: avatar-01.jpg
-
-    # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+  - name: Martin Kysel
+    tagline: Software engineer and aspiring Mountaineer. Builds products to improve the world. For tech, follow www.martinkysel.com.
+    avatar: martin.jpg
 
   # Team Member
-  - name: James Young
-    tagline: Developer
-    avatar: avatar-02.jpg
-
-    # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+  - name: Amy
+    tagline: Content sorceress, conjuring digital word and video from the void. Must pet all cats.
+    avatar: amy.jpg
 
   # Team Member
-  - name: Johnatan Doe
-    tagline: Hacker
-    avatar: avatar-04.jpg
+  - name: El Truckito
+    tagline: GMC Sierra 2500 HD, 2016 model. Absolute unit. 6.0L engine, can tow a bus. Incredibly sexy.
+             Palomino Backpack Camper, 2016 model. Comes with the world’s comfiest bed and questionable placement of
+             electrical outlets
+    avatar: truckito.jpg
 
-    # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
 
-  # Team Member
-  - name: Ecaterina Doe
-    tagline: Support Expert
-    avatar: avatar-03.jpg
-
-    # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
 
 #####################################
 ########## Pricing Tables ###########
@@ -433,6 +420,6 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ohkimur
-footer-copyright-url: https://github.com/ohkimur
-footer-copyright-year: 2021
+footer-copyright-text: mkysel
+footer-copyright-url: https://github.com/mkysel
+footer-copyright-year: 2023

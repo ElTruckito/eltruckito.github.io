@@ -56,32 +56,3 @@
 
   </div>
 </section>
-
-<!-- Google Map Embed -->
-<div class="google-map">
-
-  <script async src="https://maps.googleapis.com/maps/api/js?key={{ site.key-api }}&callback=initMap">
-  </script>
-  <div id="map" style='overflow:hidden;height:490px;width:100%;'></div>
-  <script type='text/javascript'>
-    // Initialize and add the map
-    function initMap() {
-      // The location of Uluru
-      const lat = {{ site.map-lat}};
-      const lng = {{ site.map-lng }};
-      
-      const location = { lat, lng };
-      // The map, centered at Uluru
-      const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 10,
-        center: location,
-      });
-      // The marker, positioned at Uluru
-      const marker = new google.maps.Marker({
-        position: location,
-        map: map,
-      });
-    }
-  </script>
-
-</div>

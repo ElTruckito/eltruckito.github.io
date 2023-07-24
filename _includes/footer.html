@@ -13,16 +13,30 @@
           <p>{{ site.footer-description }}</p>
         </div>
 
+        {% if site.socials %}
         <div class="social-icons">
           <ul class="icons">
+            {% if site.socials.youtube %}
             <li><a href="{{ site.youtube }}" target="_blank"><i class="fi flaticon-youtube"></i></a></li>
+            {% endif %}
+            {% if site.socials.pinterest %}
             <li><a href="{{ site.pinterest }}" target="_blank"><i class="fi flaticon-pinterest"></i></a></li>
+            {% endif %}
+            {% if site.socials.facebok %}
             <li><a href="{{ site.facebook }}" target="_blank"><i class="fi flaticon-facebook"></i></a></li>
+            {% endif %}
+            {% if site.socials.twitter %}
             <li><a href="{{ site.twitter }}" target="_blank"><i class="fi flaticon-twitter"></i></a></li>
+            {% endif %}
+            {% if site.socials.google-plus %}
             <li><a href="{{ site.google-plus }}" target="_blank"><i class="fi flaticon-google-plus"></i></a></li>
+            {% endif %}
+            {% if site.socials.vimeo %}
             <li><a href="{{ site.vimeo }}" target="_blank"><i class="fi flaticon-vimeo"></i></a></li>
+            {% endif %}
           </ul>
         </div>
+        {% endif %}
 
       </div>
 
