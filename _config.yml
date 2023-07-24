@@ -51,20 +51,6 @@ header-title: Create the <strong>Impossible</strong>
 # Header Tagline
 headter-tagline: We Always
 
-####################################
-######   CTA Header Buttons   ######
-####################################
-
-## Focus Buttons
-#header-focus-button:
-#  title: Download Now
-#  url: https://themeforest.net/collections/6069390-sera
-#
-## Secondary Buttons
-#header-secondary-button:
-#  title: Discover More
-#  url: http://themeforest.net/user/ohkimur
-
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
@@ -72,45 +58,18 @@ headter-tagline: We Always
 #
 email: your_email@example.com
 
-# Offer Banner Link
-# Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
 
 ####################################
 ######  Global Social Links   ######
 ####################################
-#socials:
-#  youtube: "#"
-#  pinterest: "#"
-#  facebook: "#"
-#  twitter: "#"
-#  google-plus: "#"
-#  vimeo: "#"
+socials:
+  instagram: "ElTruckito"
+  facebook: "ElTruckito"
 
 #########################
 ######   Widgets   ######
 #########################
 
-#
-# About Blog Author Widget
-#
-about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-  author-social-links:
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-
-# Google Map JS api
-key-api: YOUR_GOOGLE_MAP_API_KEY
-map-text: Sera Google Map
-map-lat: 44.4267674
-map-lng: 26.102538399999958
 
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these
@@ -118,232 +77,41 @@ mailchimp:
   user-id: REPLACEME
   list-id: REPLACEME
 
-####
-#
-# Hi you now use Sera - OnePage Jekyll Theme created by Ohkimur
-#
-# Below are each section from the website in order from top to bottom
-# @TODO Edit each sections with your real information and each section from Sera will autocomplete with your information
-#
-####
-
 #####################################
 #############   About   #############
 #####################################
 about-title: El Truckito
-about-description: Meet Martin and Amy, the digital nomad duo on a boundless adventure with their faithful companion, El Truckito, the GMC Sierra truck camper. Roaming the world as modern-day explorers, they embrace the thrill of the unknown, working remotely and experiencing the richness of diverse cultures. Join their captivating odyssey as they redefine the art of living – free, untethered, and endlessly inspired.
+about-description: We're Martin and Amy, the digital nomad duo, and our incredible journey begins with El Truckito, our beloved GMC Sierra truck camper. As modern-day adventurers, we're stepping into the unknown, exploring the world while working remotely, and immersing ourselves in the richness of diverse cultures. Join us as we redefine the art of living, embracing a life that's free, untethered, and endlessly inspiring. Join our epic odyssey as we redefine the art of living – free, untethered, and endlessly inspired.
 
 #####################################
-#############  Features  ############
+#############   Follow   #############
 #####################################
-features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
+follow-title: Follow Us
+follow-description: We're Martin and Amy, the digital nomad duo, and our incredible journey begins with El Truckito, our beloved GMC Sierra truck camper. As modern-day adventurers, we're stepping into the unknown, exploring the world while working remotely, and immersing ourselves in the richness of diverse cultures. Join us as we redefine the art of living, embracing a life that's free, untethered, and endlessly inspiring. Join our epic odyssey as we redefine the art of living – free, untethered, and endlessly inspired.
 
-#
-# Features
-#
-features:
-  # Feature
-  - title: Clean & Unique Design
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-    icon: pe-7s-vector
-
-  # Feature
-  - title: Professional Support
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-    icon: pe-7s-help2
-
-  # Feature
-  - title: Pixel Perfect
-    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-    icon: pe-7s-airplay
 
 #####################################
 ############  Media  ############
 #####################################
 media-title: In Media
-media-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
-
+media-description: COMING SOON
 #
 # Media Grid
 #
 media-categories:
   [Podcasts, Magazines, TV, Radio]
 media:
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Podcasts]
-    image: img-01.jpg
-    url: "#"
-
-
-#####################################
-############  Portfolio  ############
-#####################################
-portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
-
-#
-# Portfolio Grid
-#
-portfolio-categories:
-  [Websites, Logo, Graphic Design, Development, Video, Photography]
-portfolio:
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
-    image: img-01.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Graphic Design, Logo, Websites]
-    image: img-02.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Graphic Design, Logo, Photography]
-    image: img-03.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video, Photography]
-    image: img-04.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Development, Logo]
-    image: img-05.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Development, Video]
-    image: img-06.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Graphic Design]
-    image: img-07.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Websites, Video]
-    image: img-08.jpg
-    url: "#"
-
-  # Portfolio Item
-  - title: S<span class="thin">era</span> Style
-    categories: [Photography, Logo]
-    image: img-09.jpg
-    url: "#"
-
-#####################################
-##########  Core Features  ##########
-#####################################
-core-title: Core Features
-core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
-
-#
-# Core Features Left
-#
-core-features-left:
-  # Feature
-  - name: Creative
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-light
-
-  # Feature
-  - name: Minimalism
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-drop
-
-  # Feature
-  - name: Clean Coding
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-coffee
-
-  # Feature
-  - name: Friendly
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-smile
-
-#
-# Core Features Right
-#
-core-features-right:
-  # Feature
-  - name: Branding
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-wine
-
-  # Feature
-  - name: Web Design
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-monitor
-
-  # Feature
-  - name: Graphic Design
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-crop
-
-  # Feature
-  - name: Photography
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-    icon: pe-7s-camera
-
-#####################################
-########### Testimonials ############
-#####################################
-testimonials-title: Testimonials
-testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi.
-
-#
-# Testimonials
-#
-testimonials:
-  # Client
-  - name: Johnatan Doe
-    url: http://themeforest.net
-    url-text: ThemeForest.net
-    avatar: avatar-01.jpg
-    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-    logo-img: themeforest.png
-
-  # Client
-  - name: Adam Smith
-    url: http://codecanyon.net
-    url-text: CodeCanyon.net
-    avatar: avatar-02.jpg
-    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-    logo-img: codecanyon.png
-
-  # Client
-  - name: Irene Warner
-    url: http://videohive.net
-    url-text: VideoHive.net
-    avatar: avatar-03.jpg
-    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-    logo-img: videohive.png
-
-  # Client
-  - name: Richard Ryan
-    url: http://audiojungle.net
-    url-text: AudioJungle.net
-    avatar: avatar-04.jpg
-    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-    logo-img: audiojungle.png
+  # Media Item
+#  - title: S<span class="thin">era</span> Style
+#    categories: [Podcasts]
+#    image: img-01.jpg
+#    url: "#"
 
 #####################################
 ############# Our Blog ##############
 #####################################
 blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-description: COMING SOON
 
 #####################################
 ############### Team ################
@@ -373,43 +141,6 @@ team:
     avatar: truckito.jpg
 
 
-
-#####################################
-########## Pricing Tables ###########
-#####################################
-pricing-title: Pricing Tables
-pricing-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
-
-#
-# Plan Personal
-#
-plan-personal-price: $99
-plan-personal-offer-1-title: 01 PSD Pack
-plan-personal-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-personal-offer-2-title: 100 Support Tickets
-plan-personal-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-personal-url: "#"
-
-#
-# Plan Business
-#
-plan-business-price: $499
-plan-business-offer-1-title: 05 PSD Pack
-plan-business-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-business-offer-2-title: 1000 Support Tickets
-plan-business-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-business-url: "#"
-
-#
-# Plan Ultimate
-#
-plan-ultimate-price: $999
-plan-ultimate-offer-1-title: 10 PSD Pack
-plan-ultimate-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-ultimate-offer-2-title: Support Unlimited
-plan-ultimate-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-ultimate-url: "#"
-
 #####################################
 ############   Contact   ############
 #####################################
@@ -419,7 +150,8 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+footer-header: FOLLOW OUR JOURNEY
+footer-description: We are active on these social media platforms
 footer-copyright-text: mkysel
 footer-copyright-url: https://github.com/mkysel
 footer-copyright-year: 2023
