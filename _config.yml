@@ -42,6 +42,10 @@ jekyll-archives:
 #######################################################
 #######################################################
 
+
+### Google Analytics ###
+google_analytics: G-QNB5PNBM5B
+
 # This is your site title
 title: El Truckito
 # Website language

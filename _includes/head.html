@@ -8,4 +8,8 @@
 
   <!-- Importing Styles -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>
