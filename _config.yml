@@ -110,11 +110,6 @@ media:
 blog-title: Our Blog
 blog-description: COMING SOON
 
-#####################################
-############### Team ################
-#####################################
-team-title: Meet The Crew
-team-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
 #
 # Team Members
@@ -122,12 +117,12 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 team:
   # Team Member
   - name: Martin
-    tagline: Software engineer and aspiring Mountaineer. Builds products to improve the world. For tech, follow www.martinkysel.com
+    tagline: "Tech Alpinist: Aspiring mountaineer crafting world-transforming solutions. Explore further at <a href=\"https://www.martinkysel.com\">www.martinkysel.com.</a>"
     avatar: martin.jpg
 
   # Team Member
   - name: Amy
-    tagline: Content sorceress, conjuring digital word and video from the void. Must pet all cats.
+    tagline: "Content sorceress: Conjuring digital word and video from the void. Must pet all cats."
     avatar: amy.jpg
 
   # Team Member
