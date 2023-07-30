@@ -1,0 +1,41 @@
+/**
+ *
+ *  Timer Style
+ *
+ *  @package ohkimur_layout_extensions_by_mkysel
+ *
+ **/
+#timerYears,
+#timerSeconds,
+#timerHours,
+#timerDays,
+#timerMinutes {
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Roboto';
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+  color: $primary;
+}
+
+.timerContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.timerSection {
+  padding: 7vh 0px 8vh 0px;
+}
+
+.timerSpecificContainer {
+  width: 90px;
+  margin: 0px -10px;
+}
+
+.pointsTimer {
+  margin: 0;
+  padding: 0;
+  font-weight: 600;
+  color: $primary;
+}

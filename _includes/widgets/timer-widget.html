@@ -1,0 +1,35 @@
+<script>
+    window.onload = function () {
+        var start_timestamp = new Date("Nov 1, 2022 19:29:00 UTC");
+        countUpFromTime(start_timestamp.getTime(), 'departure_from_houston');
+    };
+    function countUpFromTime(countFrom, id) {
+        let now = new Date();
+        let timeDifference = (now - countFrom);
+
+        timeDifference /= 1000;
+
+        let secs = Math.floor(timeDifference % 60);
+        timeDifference /= 60;
+
+        let mins = Math.floor(timeDifference % 60);
+        timeDifference /= 60;
+
+        let hours = Math.floor(timeDifference % 24);
+        timeDifference /= 24;
+
+        let days = Math.floor(timeDifference % 365);
+        timeDifference /= 365;
+
+        let years = Math.floor(timeDifference);
+
+        document.getElementById('timerYears').innerHTML = years;
+        document.getElementById('timerDays').innerHTML = days;
+        document.getElementById('timerHours').innerHTML = hours;
+        document.getElementById('timerMinutes').innerHTML = mins;
+        document.getElementById('timerSeconds').innerHTML = secs;
+
+        clearTimeout(countUpFromTime.interval);
+        countUpFromTime.interval = setTimeout(function () { countUpFromTime(countFrom, id); }, 1000);
+    }
+</script>

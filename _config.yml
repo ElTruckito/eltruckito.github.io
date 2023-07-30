@@ -53,7 +53,7 @@ lang: en-US
 # Header Title
 header-title: Overlanding the <strong>Americas</strong>
 # Header Tagline
-headter-tagline: Currently
+headter-tagline: Currently on <strong>stage 1</strong>
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -81,11 +81,6 @@ mailchimp:
   user-id: REPLACEME
   list-id: REPLACEME
 
-#####################################
-#############   About   #############
-#####################################
-about-title: El Truckito
-about-description: We're Martin and Amy, the digital nomad duo, and our incredible journey begins with El Truckito, our beloved GMC Sierra truck camper. As modern-day adventurers, we're stepping into the unknown, exploring the world while working remotely, and immersing ourselves in the richness of diverse cultures. Join us as we redefine the art of living, embracing a life that's free, untethered, and endlessly inspiring. Join our epic odyssey as we redefine the art of living – free, untethered, and endlessly inspired.
 
 #####################################
 #############   Follow   ############
