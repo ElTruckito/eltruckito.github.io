@@ -91,18 +91,19 @@ follow-title: Follow Us
 ############  Media  ############
 #####################################
 media-title: In Media
-media-description: COMING SOON
+media-description: Listed, read, and watch about El Truckito
 #
 # Media Grid
 #
 media-categories:
-  [Podcasts, Magazines, TV, Radio]
+  [Podcasts]
+#  [Podcasts, Magazines, TV, Radio]
 media:
-  # Media Item
-#  - title: S<span class="thin">era</span> Style
-#    categories: [Podcasts]
-#    image: img-01.jpg
-#    url: "#"
+#   Media Item
+  - title: Svět je CooL
+    categories: [Podcasts]
+    image: svet_je_cool.jpeg
+    url: "https://svetjecool.cz/el-truckito-na-ceste-kolem-sveta-v-truck-camperu/"
 
 #####################################
 ############# Our Blog ##############
