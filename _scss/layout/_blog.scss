@@ -108,7 +108,7 @@ section.blog-section {
           .article-title {
             margin: 50px 0;
 
-            h3.title {
+            h1.title {
               color: $secondary;
               font-size: 2rem;
             }
@@ -134,7 +134,7 @@ section.blog-section {
           width: 100%;
           margin: 30px 0;
 
-          h3.title {
+          h1.title {
             font-size: 1.6rem;
             line-height: 1.4;
             text-transform: uppercase;
@@ -150,9 +150,10 @@ section.blog-section {
             }
           }
 
-          h4.category {
+          h2.category {
             color: $primary;
             text-transform: capitalize;
+            font-size: 1.5rem;
           }
         }
 
@@ -164,6 +165,24 @@ section.blog-section {
         position: relative;
         float: left;
         width: 100%;
+
+        h2 {
+          font-size: 1.5rem;
+          margin-top: 1em;
+          margin-bottom: 0.5em;
+        }
+
+        h3 {
+          font-size: 1.3rem;
+          margin-top: 1em;
+          margin-bottom: 0.5em;
+        }
+
+        h4 {
+          font-size: 1.1rem;
+          margin-top: 1em;
+          margin-bottom: 0.5em;
+        }
 
         // Article Date
         .article-date {

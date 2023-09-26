@@ -8,12 +8,14 @@ layout: page
 
     <!-- Article Header -->
     <header class="article-header">
+      {% if page.image %}
       <div class="img-wrap">
         <img src="{{ site.baseurl }}/images/blog/{{ page.image }}" alt="Article Blog Image">
       </div>
+      {% endif %}
       <div class="article-title">
-        <h3 class="title">{{ page.title }}</h3>
-        <h4 class="category">{{ page.categories | first }}</h4>
+        <h1 class="title">{{ page.title }}</h1>
+        <h2 class="category">{{ page.categories | first }}</h2>
       </div>
     </header>
 
