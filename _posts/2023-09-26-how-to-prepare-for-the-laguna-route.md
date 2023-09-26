@@ -8,7 +8,7 @@ image: truckito-laguna.jpg
 ---
 
 If you’re overlanding South America, you’ve heard of it: the famed Laguna Route through Eduardo Avaroa National Reserve, tucked in Bolivia’s remote, southwest corner.
-It’s legendary within the community for good reason: the high altitude, alien landscapes painted with salt flats and lakes, volcanos, geysers, and desert; the hardy fauna adapted for the extreme climate; and of course, the vehicle-crippling conditions within the park.
+It’s legendary within the community for good reason: the high altitude, alien landscapes painted with salt flats and lakes, volcanoes, geysers, and desert; the hardy fauna adapted for the extreme climate; and of course, the vehicle-crippling conditions within the park.
 
 If you have yet to be deterred by the tales of your fellow travelers, here is some advice we can impart to make your voyage through this treasure of the Altiplano safer and, hopefully, less frustrating.
 
