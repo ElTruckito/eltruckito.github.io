@@ -12,7 +12,7 @@ It’s legendary within the community for good reason: the high altitude, alien 
 
 If you have yet to be deterred by the tales of your fellow travelers, here is some advice we can impart to make your voyage through this treasure of the Altiplano safer and, hopefully, less frustrating.
 
-1. [1) How do you prevent frozen diesel and/or liquid coolant?](#how-do-you-prevent-frozen-diesel-andor-liquid-coolant-a-namediesela)
+1. [1) How do you prevent frozen diesel and/or liquid coolant?](#how-do-you-prevent-frozen-diesel-andor-liquid-coolant)
 2. [2) What do you do about the lack of fuel availability?](#what-do-you-do-about-the-lack-of-fuel-availability)
 3. [3) How do you navigate without road maps?](#how-do-you-navigate-without-road-maps)
 4. [4) How do you survive the extreme road conditions?](#how-do-you-survive-the-extreme-road-conditions)
@@ -32,7 +32,7 @@ If your rig operates on diesel, you are in for a treat! The nightly temperatures
 
 ## What do you do about the lack of fuel availability?
 
-It doesn’t matter whether you’re entering the park from Bolivia or from northern Chile: there is no fuel available for hundreds of kilometers in either direction of travel. It is tough to predict how much fuel your vehicle will be chugging with the uncertain distances you will have to travel (see next sections on [no roads](#how-do-you-navigate-without-road-maps) and [extreme road conditions](#how-do-you-survive-the-extreme-road-conditions)) combined with the additional taxation of exceptionally high elevation.
+It doesn't matter whether you’re entering the park from Bolivia or from northern Chile: there is no fuel available for hundreds of kilometers in either direction of travel. It is tough to predict how much fuel your vehicle will be chugging with the uncertain distances you will have to travel (see next sections on [no roads](#how-do-you-navigate-without-road-maps) and [extreme road conditions](#how-do-you-survive-the-extreme-road-conditions)) combined with the additional taxation of exceptionally high elevation.
 
 ### Carry spare fuel
 The last thing you need is to be stranded in such a desolate and sparsely-populated environment. As such, self-sufficiency is the best and only realistic option. Carry spare fuel in jerry cans to ensure you can make it to the next gas station. In the worst case scenario where you need more fuel and have none, it is often possible to purchase fuel from passing tour groups at exorbitant rates (this is *their* spare gas after all).
@@ -45,7 +45,7 @@ You read that correctly. While traversing the park, you will notice that not onl
 
 ### Follow the tour jeeps.
 
-While we survived the majority of our Laguna Route odyssey by using offline Google maps and driving our truck camper in the direction of whichever laguna or geyser we wished to visit, we discovered between debating which path was the “correct” road and praying that whichever route we chose would not result in washboarding-induced cookies being tossed, that it was faster to follow the tour jeeps going in the same direction. The experienced tour guides know exactly how to get to the places you want to see and, *generally*, seem to know the least uncomfortable route to get there (if you can keep up with them!).
+While we survived the majority of our Laguna Route odyssey by using offline Google Maps and driving our truck camper in the direction of whichever laguna or geyser we wished to visit, we discovered between debating which path was the “correct” road and praying that whichever route we chose would not result in washboarding-induced cookies being tossed, that it was faster to follow the tour jeeps going in the same direction. The experienced tour guides know exactly how to get to the places you want to see and, *generally*, seem to know the least uncomfortable route to get there (if you can keep up with them!).
 
 ## How do you survive the extreme road conditions?
 
