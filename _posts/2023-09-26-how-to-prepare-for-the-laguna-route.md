@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Prepare for the Laguna Route"
+title: "Laguna Route Survival Guide"
 date: 2023-09-26
 categories: [Bolivia]
 tags: [Laguna Route, Bolivia, Overland, Survival Guide, South America]
