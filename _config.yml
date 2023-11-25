@@ -96,7 +96,7 @@ media-description: Listed, read, and watch about El Truckito
 # Media Grid
 #
 media-categories:
-  [Podcasts]
+  [Podcasts, Contests]
 #  [Podcasts, Magazines, TV, Radio]
 media:
 #   Media Item
@@ -109,6 +109,11 @@ media:
     categories: [Podcasts]
     image: small_truck_campers.jpeg
     url: "https://open.spotify.com/episode/27eFdeKCA9RtSZn9Uhz12y?si=edb582e1785448e9"
+#   Media Item
+  - title: Winners of Truck Camper Magazine Calendar Contest 2024
+    categories: [Contests]
+    image: truck_camper_magazine_calendar_2024.jpeg
+    url: "https://www.truckcampermagazine.com/calendar/on-sale-now-2024-truck-camper-magazine-calendar/"
 
 #####################################
 ############# Our Blog ##############
