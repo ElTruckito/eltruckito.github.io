@@ -99,6 +99,10 @@ media-categories:
   [Magazines, Podcasts, Contests]
 #  [Podcasts, Magazines, TV, Radio]
 media:
+  - title: The RV Enterpreneur Podcast from RV Life
+    categories: [Podcasts]
+    image: rve.jpg
+    url: "https://therventrepreneur.com/rve323/"
 #   Media Item
   - title: Svět je CooL
     categories: [Podcasts]
@@ -118,7 +122,6 @@ media:
     categories: [Contests]
     image: truck_camper_magazine_calendar_2024.jpeg
     url: "https://www.truckcampermagazine.com/calendar/on-sale-now-2024-truck-camper-magazine-calendar/"
-
 
 #####################################
 ############# Our Blog ##############
