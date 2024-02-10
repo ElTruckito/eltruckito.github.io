@@ -96,9 +96,13 @@ media-description: Listed, read, and watch about El Truckito
 # Media Grid
 #
 media-categories:
-  [Magazines, Podcasts, Contests]
+  [Magazines, Podcasts, Contests, TV, YouTube]
 #  [Podcasts, Magazines, TV, Radio]
 media:
+  - title: VolantTV - Južná Amerika na pickupe
+    categories: [TV, YouTube]
+    image: volanttv.jpeg
+    url: "https://www.volant.tv/slovak-presiel-najnebezpecnejsiu-cestu-sveta-autom-juzna-amerika-na-pickupe/"
   - title: The RV Enterpreneur Podcast from RV Life
     categories: [Podcasts]
     image: rve.jpg
