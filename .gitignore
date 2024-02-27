@@ -125,3 +125,6 @@ _site/
 
 # Idea files
 .idea/
+
+# Mac garbage
+*.DS_STORE
