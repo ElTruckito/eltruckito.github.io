@@ -99,6 +99,10 @@ media-categories:
   [Magazines, Podcasts, Contests, TV, YouTube]
 #  [Podcasts, Magazines, TV, Radio]
 media:
+  - title: El Truckito Is Just Getting Started
+    categories: [Magazines]
+    image: TCM.jpg
+    url: "https://www.truckcampermagazine.com/expeditions/world-travel/el-truckito-is-just-getting-started/"
   - title: VolantTV - Južná Amerika na pickupe
     categories: [TV, YouTube]
     image: volanttv.jpeg
