@@ -132,6 +132,19 @@ media:
     url: "https://www.truckcampermagazine.com/calendar/on-sale-now-2024-truck-camper-magazine-calendar/"
 
 #####################################
+############  Partnerships  ############
+#####################################
+partnerships-title: Partnerships
+partnerships-description: Partnerships are the cornerstone of our success, fostering mutually beneficial collaborations that elevate content creation and engagement.
+#
+# Partnerships Grid
+#
+partnerships-categories:
+  [Gear]
+partnerships:
+
+
+#####################################
 ############# Our Blog ##############
 #####################################
 blog-title: Our Blog
