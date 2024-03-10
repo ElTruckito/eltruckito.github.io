@@ -29,6 +29,36 @@
         document.getElementById('timerMinutes').innerHTML = mins;
         document.getElementById('timerSeconds').innerHTML = secs;
 
+        if (years === 1) {
+            document.getElementById('timerYearsText').innerHTML = "Year"
+        } else {
+            document.getElementById('timerYearsText').innerHTML = "Year"
+        }
+
+        if (days === 1) {
+            document.getElementById('timerDaysText').innerHTML = "Day"
+        } else {
+            document.getElementById('timerDaysText').innerHTML = "Days"
+        }
+
+        if (hours === 1) {
+            document.getElementById('timerHoursText').innerHTML = "Hour"
+        } else {
+            document.getElementById('timerHoursText').innerHTML = "Hours"
+        }
+
+        if (mins === 1) {
+            document.getElementById('timerMinutesText').innerHTML = "Minute"
+        } else {
+            document.getElementById('timerMinutesText').innerHTML = "Minutes"
+        }
+
+        if (secs === 1) {
+            document.getElementById('timerSecondsText').innerHTML = "Second"
+        } else {
+            document.getElementById('timerSecondsText').innerHTML = "Seconds"
+        }
+
         clearTimeout(countUpFromTime.interval);
         countUpFromTime.interval = setTimeout(function () { countUpFromTime(countFrom, id); }, 1000);
     }
