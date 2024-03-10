@@ -54,6 +54,7 @@ header.site-header {
     min-height: 100px;
     z-index: 2;
 
+    background-color: $text-background;
     // Logo
     .logo {
       img {
@@ -122,11 +123,12 @@ header.site-header {
     height: calc(100vh - 250px);
     max-height: calc(1080px - 250px);
     z-index: 2;
-    color: $white;
 
     .heading-content {
       width: 100%;
       text-transform: uppercase;
+      background-color: $text-background;
+      color: $white;
 
       .heading-title {
         hr.small {
