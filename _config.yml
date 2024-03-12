@@ -135,14 +135,17 @@ media:
 ############  Partnerships  ############
 #####################################
 partnerships-title: Partnerships
-partnerships-description: Partnerships are the cornerstone of our success, fostering mutually beneficial collaborations that elevate content creation and engagement.
+partnerships-description: Partnerships are the cornerstone of our success. Here are some of the incredible companies we have the privilege of working with
 #
 # Partnerships Grid
 #
 partnerships-categories:
   [Gear]
 partnerships:
-
+  - title: 4x4 Gadgets Sally
+    categories: [Gear]
+    image: gadgets4x4sallylogo.jpeg
+    url: ""
 
 #####################################
 ############# Our Blog ##############
