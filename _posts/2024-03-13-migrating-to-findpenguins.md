@@ -4,7 +4,7 @@ title: "Migrating from Polarsteps to FindPenguins"
 date: 2024-03-13
 categories: [Overland]
 tags: [Overland, Technology]
-image: campervan-vs-truckcamper.jpg
+image: penguins-header.png
 ---
 
 ## Our Thoughts on Digital Safety
