@@ -125,12 +125,15 @@ Go to [https://findpenguins.com/import/s/polarsteps](https://findpenguins.com/im
 
 
 Step 1) Upload your Polarsteps data
+
 ![Alt][4]
 
 Step 2) Select your trips
+
 ![Alt][5]
 
 Step 3) Profit!
+
 ![Alt][6]
 
 ### Fixing it all up
@@ -148,12 +151,15 @@ Despite these minor considerations, the overall benefits of the migration proces
 Here are the steps for the process:
 
 1) Find a route that lacks proper routing
+
 ![Alt][7]{: width="50%"}
 
 2) Click on “auto route”
+
 ![Alt][8]{: width="50%"}
 
 3) Profit!
+
 ![Alt][9]{: width="50%"}
 
 Once your corrections are made you will have a more visually-pleasing and accurate map.
