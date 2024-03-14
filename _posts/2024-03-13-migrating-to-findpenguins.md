@@ -77,7 +77,7 @@ We realized that Polarsteps' safety settings were insufficient for our evolving 
 We set our Polarsteps tracker to private, aiming to withhold our current, immediate location from public view.
 Seeking a more secure platform while retaining the original trip data became a priority for us.
 
-Attempting to migrate an ongoing trip with a substantial *7404 waypoints* from Polarsteps to Find Penguins would be an impossible task
+Attempting to migrate an ongoing trip with a substantial *7404 waypoints* from Polarsteps to Find Penguins would be an impossible task.
 Faced with these options, we explored various avenues to transfer our ongoing journey from Polarsteps to Find Penguins, without creating an imperfect or imprecise map.
 
 ## The Migration Process
