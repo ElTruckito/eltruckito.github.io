@@ -68,9 +68,7 @@ If you haven't already, adopting secure digital practices should be an immediate
 |:-------------:|:---------------------:|
 |   ![Alt][1]   |       ![Alt][2]       |
 
-## Migration Overview
-
-### What about an in-progress trip?
+## What about an in-progress trip?
 
 Our safety concerns do not apply to trips that have concluded, and we are theoretically comfortable sharing our maps with acquaintances.
 Consequently, there was no urgency to transfer those journeys from one tracker to another.
@@ -81,16 +79,6 @@ Seeking a more secure platform while retaining the original trip data became a p
 
 Attempting to migrate an ongoing trip with a substantial *7404 waypoints* from Polarsteps to Find Penguins would be an impossible task
 Faced with these options, we explored various avenues to transfer our ongoing journey from Polarsteps to Find Penguins, without creating an imperfect or imprecise map.
-
-### What can be migrated easily and what can’t
-
-If your Polarsteps tracker has been active throughout your entire journey, migrating the GPS coordinates of your entire trip is feasible.
-The process involves automatically adding step coordinates and converting them into footprints, while the task of manually adding photos remains.
-For users who have utilized Polarsteps primarily as a diary, this migration process may span a few nights to complete, depending on the volume of entries.
-
-In our case, where we predominantly leveraged Polarsteps for its mapping functionality and the ability to share our location with friends and family.
-As such, the need to manually add a few steps along the way was not a significant impediment to migrating our data.
-While this approach may entail some effort, the overall convenience of having a more secure and feature-rich tracking platform, such as Find Penguins, justified the transition for us.
 
 ## The Migration Process
 
@@ -136,12 +124,7 @@ Step 3) Profit!
 
 ![Alt][6]
 
-### Fixing it all up
-
-While the migration tool in Find Penguins offers a convenient one-click solution, it has a few limitations.
-Notably, it does not automatically set the trip headline photo, a minor issue that can be easily rectified.
-Additionally, the tool does not import any photos associated with the steps you uploaded in Polarsteps.
-Depending on the extent of your Polarsteps usage, re-uploading these photos might require some time and effort.
+### Finishing touches
 
 For users like us who have sections of road that were not actively tracked in Polarsteps, resulting in straight lines that don't align with any roads, Find Penguins impressively addresses this challenge.
 The platform can identify the best possible route and generate a visually appealing, meandering line that accurately reflects the journey.
@@ -187,7 +170,7 @@ This platform has proven instrumental in striking a balance between sharing our 
 [1]: /images/blog/findpenguins/trip-settings.jpg "Trip settings"
 [2]: /images/blog/findpenguins/time-delayed%20sharing.jpg "Time delayed sharing"
 [3]: /images/blog/findpenguins/export-polarsteps.png
-[4]: /images/blog/findpenguins/upload-archive.png "Upload Archive"
+[4]: /images/blog/findpenguins/upload-archive-new.png "Upload Archive"
 [5]: /images/blog/findpenguins/import-dialog.png "Select your trip"
 [6]: /images/blog/findpenguins/import-success.png "Import Success"
 [7]: /images/blog/findpenguins/beginning.jpg "Begin Correction"
