@@ -168,6 +168,8 @@ While the importance of safeguarding this information is widely recognized, one'
 In our experience, Find Penguins has emerged as an excellent travel tracker, not only for its proficiency in correcting missing routes, but also for its impressive array of finely-tunable safety settings.
 This platform has proven instrumental in striking a balance between sharing our journey and maintaining our privacy and for these reasons we highly recommend it to our fellow travelers.
 
+FindPenguins is offering a 15% discount code to followers of ElTruckito. Use code __ELTRUCKITO__ for you first book purchase!
+
 [1]: /images/blog/findpenguins/trip-settings.jpg "Trip settings"
 [2]: /images/blog/findpenguins/time-delayed%20sharing.jpg "Time delayed sharing"
 [3]: /images/blog/findpenguins/export-polarsteps.png
