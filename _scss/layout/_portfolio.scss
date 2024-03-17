@@ -69,12 +69,14 @@ section.portfolio-section {
       margin-bottom: 30px;
       transform: scale(0.95);
       transition: all $transition-links $transition-links-type;
+      min-height: 200px;
 
       // Item Image
       .img-wrap {
         position: relative;
 
         img {
+          //min-height: 160px;
           width: 100%;
           display: block;
         }
