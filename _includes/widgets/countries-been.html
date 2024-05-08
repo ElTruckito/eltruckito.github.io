@@ -6,24 +6,24 @@
 <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
 <!-- Chart code -->
 <script>
-    am5.ready(function() {
+    am5.ready(function () {
 
 // Data
         var groupData = [
             {
                 "name": "Stage 1: The New World: Americas",
                 "data": [
-                    { "id": "US", "year": "2022"},
-                    { "id": "AR", "year": "2022"},
-                    { "id": "UY", "year": "2022"},
-                    { "id": "BR", "year": "2022"},
-                    { "id": "CL", "year": "2022"},
-                    { "id": "PY", "year": "2023"},
-                    { "id": "BO", "year": "2023"},
-                    { "id": "PE", "year": "2023"},
-                    { "id": "EC", "year": "2024"},
-                    { "id": "CO", "year": "2024"},
-                    { "id": "PA", "year": "2024"},
+                    {"id": "US", "year": "2022"},
+                    {"id": "AR", "year": "2022"},
+                    {"id": "UY", "year": "2022"},
+                    {"id": "BR", "year": "2022"},
+                    {"id": "CL", "year": "2022"},
+                    {"id": "PY", "year": "2023"},
+                    {"id": "BO", "year": "2023"},
+                    {"id": "PE", "year": "2023"},
+                    {"id": "EC", "year": "2024"},
+                    {"id": "CO", "year": "2024"},
+                    {"id": "PA", "year": "2024"},
                 ]
             },
         ];
@@ -32,19 +32,23 @@
 // Create root and chart
         var root = am5.Root.new("chartdiv");
 
+        // currently PANAMA
+        var rotation_current_country = {y: 8.5380, x: 80.7821}
 
 // Create chart
         var chart = root.container.children.push(am5map.MapChart.new(root, {
-            panX: "translateX",
-            panY: "translateY",
-            projection: am5map.geoMercator()
+            panX: "rotateX",
+            panY: "rotateY",
+            rotationX: rotation_current_country.x,
+            rotationY: rotation_current_country.y,
+            projection: am5map.geoOrthographic(),
         }));
 
 
 // Create world polygon series
         var worldSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
             geoJSON: am5geodata_worldLow,
-            exclude: ["AQ"]
+            exclude: []
         }));
 
         worldSeries.mapPolygons.template.setAll({
@@ -79,11 +83,11 @@
         });
         colors.next();
 
-        am5.array.each(groupData, function(group) {
+        am5.array.each(groupData, function (group) {
             var countries = [];
             var color = colors.next();
 
-            am5.array.each(group.data, function(country) {
+            am5.array.each(group.data, function (country) {
                 countries.push(country.id)
             });
 
@@ -106,14 +110,14 @@
                 fill: am5.Color.brighten(color, -0.3)
             });
 
-            polygonSeries.mapPolygons.template.events.on("pointerover", function(ev) {
-                ev.target.series.mapPolygons.each(function(polygon) {
+            polygonSeries.mapPolygons.template.events.on("pointerover", function (ev) {
+                ev.target.series.mapPolygons.each(function (polygon) {
                     polygon.states.applyAnimate("hover");
                 });
             });
 
-            polygonSeries.mapPolygons.template.events.on("pointerout", function(ev) {
-                ev.target.series.mapPolygons.each(function(polygon) {
+            polygonSeries.mapPolygons.template.events.on("pointerout", function (ev) {
+                ev.target.series.mapPolygons.each(function (polygon) {
                     polygon.states.applyAnimate("default");
                 });
             });
