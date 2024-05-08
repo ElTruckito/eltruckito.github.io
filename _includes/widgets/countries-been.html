@@ -55,9 +55,14 @@
             fill: am5.color(0xaaaaaa)
         });
 
-        // worldSeries.events.on("datavalidated", () => {
-        //     chart.goHome();
-        // });
+        worldSeries.events.on("datavalidated", function() {
+            const zoomTargets = ["BR", "MX"];
+            const zoomDataItems = [];
+            zoomTargets.forEach(function(id) {
+                zoomDataItems.push(worldSeries.getDataItemById(id));
+            });
+            worldSeries.zoomToDataItems(zoomDataItems);
+        });
 
 
 // Add legend
