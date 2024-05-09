@@ -159,11 +159,11 @@ partnerships-categories:
 partnerships:
   - title: 4x4 Gadgets Sally
     categories: [Gear]
-    image: gadgets4x4sallylogo.jpeg
+    image: gadgets4x4sallylogo.webp
     url: "https://overlandsally.com/"
   - title: Find Penguins
     categories: [Apps]
-    image: findpenguins-rendered.png
+    image: findpenguins-rendered.webp
     url: "https://findpenguins.com/travelbook"
 #####################################
 ############# Our Blog ##############
