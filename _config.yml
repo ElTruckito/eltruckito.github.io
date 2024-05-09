@@ -28,6 +28,7 @@ plugins:
   - jekyll-archives
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-minifier
 
 jekyll-archives:
   enabled:
@@ -44,6 +45,10 @@ defaults:
       path:            "fonts/"
     values:
       sitemap:         false
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 
 #######################################################
 #######################################################

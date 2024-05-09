@@ -41,7 +41,7 @@
 
       <div class="col-md-4 col-sm-6 item visible {% for category in item.categories %} {{ category | replace:' ','-' | downcase }}{% endfor %}">
         <figure class="img-wrap">
-          <img src="{{ site.baseurl }}/images/partnerships/{{ item.image }}" alt="partnerships Item Image" />
+          <img src="{{ site.baseurl }}/images/partnerships/{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
         </figure>
         <div class="item-content">
           <h3>{{ item.title }}</h3>
