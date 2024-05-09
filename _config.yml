@@ -26,6 +26,8 @@ smooth-scroll: false
 ####################################
 plugins:
   - jekyll-archives
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 jekyll-archives:
   enabled:
@@ -35,6 +37,13 @@ jekyll-archives:
   permalinks:
     category: "/category/:name/"
     tag: "/tag/:name/"
+
+defaults:
+  -
+    scope:
+      path:            "fonts/"
+    values:
+      sitemap:         false
 
 #######################################################
 #######################################################
@@ -55,6 +64,7 @@ header-title: Overlanding the <strong>Americas</strong>
 # Header Tagline
 headter-tagline: Currently on <strong>stage 1</strong>
 
+timezone: USA/Boston
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server

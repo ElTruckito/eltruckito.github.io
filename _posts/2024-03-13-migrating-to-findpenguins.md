@@ -4,7 +4,7 @@ title: "Migrating from Polarsteps to FindPenguins"
 date: 2024-03-13
 categories: [Overland]
 tags: [Overland, Technology]
-image: penguins-header.png
+image: penguins-header.webp
 ---
 
 ## Our Thoughts on Digital Safety

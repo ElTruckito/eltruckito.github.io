@@ -4,7 +4,7 @@ title: "Truck Campers vs. Camper Vans: Perspectives Outside of North America"
 date: 2024-02-28
 categories: [Overland]
 tags: [Overland, Truck Campers, South America]
-image: campervan-vs-truckcamper.jpg
+image: campervan-vs-truckcamper.webp
 ---
 
 “Which is better; truck campers or camper vans?”
