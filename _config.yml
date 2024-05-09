@@ -179,19 +179,19 @@ team:
   # Team Member
   - name: Martin
     tagline: "Tech Alpinist: Aspiring mountaineer crafting world-transforming solutions. Explore further at <a href=\"https://www.martinkysel.com\">www.martinkysel.com.</a>"
-    avatar: martin.jpg
+    avatar: martin.webp
 
   # Team Member
   - name: Amy
     tagline: "Content Sorceress: Conjuring digital word and video from the void. Must pet all cats. <a href=\"https://www.amyfoxwriter.com\">www.amyfoxwriter.com.</a>"
-    avatar: amy.jpg
+    avatar: amy.webp
 
   # Team Member
   - name: El Truckito
     tagline: GMC Sierra 2500 HD, 2016 model. Absolute unit. 6.0L engine, can tow a bus. Incredibly sexy.
              Palomino Backpack Camper, 2016 model. Comes with the world’s comfiest bed and questionable placement of
              electrical outlets.
-    avatar: truckito.jpg
+    avatar: truckito.webp
 
 
 #####################################
