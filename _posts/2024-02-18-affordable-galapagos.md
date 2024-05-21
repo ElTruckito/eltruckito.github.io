@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Economical Escape: Tips for an Affordable Galapagos Experience"
+slug: affordable-galapagos
 date: 2024-02-18
 categories: [Ecuador]
 tags: [Galapagos, Ecuador, South America]

@@ -50,6 +50,8 @@ jekyll-minifier:
   uglifier_args:
     harmony: true
 
+permalink: /blog/:slug/
+
 #######################################################
 #######################################################
 ###############   HEADER INFORMATIONS   ###############

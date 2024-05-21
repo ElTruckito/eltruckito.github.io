@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Migrating from Polarsteps to FindPenguins"
+slug: migrating-from-polarsteps-to-findpenguins
 date: 2024-03-13
 categories: [Overland]
 tags: [Overland, Technology]
@@ -172,7 +173,7 @@ FindPenguins is offering a 15% discount code to followers of ElTruckito. Use cod
 
 [1]: /images/blog/findpenguins/trip-settings.jpg "Trip settings"
 [2]: /images/blog/findpenguins/time-delayed%20sharing.jpg "Time delayed sharing"
-[3]: /images/blog/findpenguins/export-polarsteps.png
+[3]: /images/blog/findpenguins/export-polarsteps.png "Explort Polarsteps"
 [4]: /images/blog/findpenguins/upload-archive-new.png "Upload Archive"
 [5]: /images/blog/findpenguins/import-dialog.png "Select your trip"
 [6]: /images/blog/findpenguins/import-success.png "Import Success"
