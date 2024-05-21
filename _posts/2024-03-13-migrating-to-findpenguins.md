@@ -9,7 +9,7 @@ image: penguins-header.webp
 
 ## Our Thoughts on Digital Safety
 Ensuring your safety on the road should always be a top priority, yet many individuals fail to recognize the profound impact of their digital footprints on their physical well-being.
-Recently, our awareness was heightened when discussing the safety implications of [Polarsteps](www.polarsteps.com) within a Facebook group boasting over 70,000 members.
+Recently, our awareness was heightened when discussing the safety implications of [Polarsteps](https://www.polarsteps.com) within a Facebook group boasting over 70,000 members.
 Astonishingly, numerous members shared their current public Polarsteps trackers with the group, unwittingly exposing their exact locations to this vast audience.
 The thought of 70,000 strangers having access to such personal information is a safety nightmare.
 While it's true that a significant portion may remain indifferent, it only takes one individual with malicious intent to turn the situation dire.
