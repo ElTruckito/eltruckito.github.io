@@ -7,6 +7,7 @@ categories: [Overland]
 tags: [Overland, Truck Campers, South America]
 image: campervan-vs-truckcamper.webp
 redirect_from:
+  - /overland/2024/02/28/perspectives-outside-of-north-america
   - /overland/2024/02/28/truck-campers-vs-camper-vans
 ---
 

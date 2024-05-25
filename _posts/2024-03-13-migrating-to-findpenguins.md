@@ -8,6 +8,7 @@ tags: [Overland, Technology]
 image: penguins-header.webp
 redirect_from:
   - /overland/2024/03/13/migrating-from-polarsteps-to-findpenguins
+  - /overland/2024/03/13/migrating-to-findpenguins
 ---
 
 ## Our Thoughts on Digital Safety
