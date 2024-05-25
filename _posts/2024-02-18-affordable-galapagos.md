@@ -6,6 +6,8 @@ date: 2024-02-18
 categories: [Ecuador]
 tags: [Galapagos, Ecuador, South America]
 image: galapagos-tortoise.webp
+redirect_from:
+  - /ecuador/2024/02/18/affordable-galapagos
 ---
 
 The allure of the Galapagos islands, renowned for their unique flora and fauna, is undeniable and a dream destination for many travelers.

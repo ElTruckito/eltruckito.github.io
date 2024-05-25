@@ -29,6 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-minifier
+  - jekyll-redirect-from
 
 jekyll-archives:
   enabled:

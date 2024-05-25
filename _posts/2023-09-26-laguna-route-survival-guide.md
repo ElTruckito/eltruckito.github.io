@@ -6,6 +6,8 @@ date: 2023-09-26
 categories: [Bolivia]
 tags: [Laguna Route, Bolivia, Overland, Survival Guide, South America]
 image: truckito-laguna.webp
+redirect_from:
+  - /bolivia/2023/09/26/laguna-route-survival-guide
 ---
 
 If you’re overlanding South America, you’ve heard of it: the famed Laguna Route through Eduardo Avaroa National Reserve, tucked in Bolivia’s remote, southwest corner.
