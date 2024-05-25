@@ -53,6 +53,9 @@ jekyll-minifier:
 
 permalink: /blog/:slug/
 
+whitelist:
+  - jekyll-redirect-from
+
 #######################################################
 #######################################################
 ###############   HEADER INFORMATIONS   ###############
