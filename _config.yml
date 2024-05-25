@@ -4,7 +4,7 @@
 #
 
 # Information for compile
-exclude: ["Gemfile", "README.md", ".idea"]
+exclude: ["Gemfile", "README.md", ".idea", "LICENSE"]
 
 # Sass configuration
 sass:
