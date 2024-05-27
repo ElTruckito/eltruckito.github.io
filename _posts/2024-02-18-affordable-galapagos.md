@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: post-minimal
 title: "Economical Escape: Tips for an Affordable Galapagos Experience"
 slug: affordable-galapagos
 date: 2024-02-18
-categories: [Ecuador]
-tags: [Galapagos, Ecuador, South America]
+categories: [Ecuador, Galapagos, South America, Survival Guide]
 image: galapagos-tortoise.webp
 redirect_from:
   - /ecuador/2024/02/18/affordable-galapagos
+description: Discover the magic of the Galapagos Islands without breaking the bank with our smart-spending guide. Skip costly cruises and book affordable day tours on-site, save on meals with Menú del Día and restaurant promos, and always pay in cash to avoid extra fees. Enjoy an unforgettable Galapagos adventure with these budget-conscious tips, ensuring a memorable and economical trip.
 ---
 
 The allure of the Galapagos islands, renowned for their unique flora and fauna, is undeniable and a dream destination for many travelers.

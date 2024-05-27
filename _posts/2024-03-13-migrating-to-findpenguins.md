@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: post-minimal
 title: "Migrating from Polarsteps to FindPenguins"
 slug: migrating-from-polarsteps-to-findpenguins
 date: 2024-03-13
-categories: [Overland]
-tags: [Overland, Technology]
+categories: [Overland, Technology, Partners]
 image: penguins-header.webp
 redirect_from:
   - /overland/2024/03/13/migrating-from-polarsteps-to-findpenguins
   - /overland/2024/03/13/migrating-to-findpenguins
+description: Ensuring your safety on the road extends beyond physical precautions to managing your digital footprint. We explore the risks of sharing your exact location with apps like Polarsteps and offer safer alternatives like Find Penguins, which provides over 50 customizable privacy settings. Discover how to balance sharing your journey with maintaining your security, using practical examples and tips from our own travels through the Americas. Learn about the importance of digital hygiene and how to migrate your travel data securely from Polarsteps to Find Penguins.
 ---
 
 ## Our Thoughts on Digital Safety

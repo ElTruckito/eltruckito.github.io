@@ -7,12 +7,12 @@
  **/
 
 body {
-
   // Typography
   font: {
-    family: $font-family, Arial, sans-serif;
+    family: $font-family, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     size: $global-font-size;
     weight: normal;
+    font-weight: 400;
   }
 
   color: $global-text;

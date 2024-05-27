@@ -45,6 +45,7 @@ GEM
       jekyll (>= 3.5)
       json-minify (~> 0.0.3)
       uglifier (~> 4.1)
+    jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -98,6 +99,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll-archives
   jekyll-minifier
+  jekyll-paginate
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
