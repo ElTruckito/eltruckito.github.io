@@ -7,7 +7,7 @@ categories: [Guyana, Visas, Survival Guide]
 image: guyana.webp
 description: Guyana, the least visited country in the Americas in 2023, poses unique challenges for tourists due to poorly documented and inconsistent visa processes. This guide navigates the confusing landscape of obtaining a Guyana tourist visa, whether online or at embassies. Learn about exemptions, application steps, and the specific process at the Paramaribo embassy. Be prepared for long waits and potential travel to embassies, but this guide aims to streamline your experience.
 ---
-## Overview of the mess
+## How to acquire a Guyana tourist visa in 2024
 Guyana is the 28th __least visited country__ in 2023 and the least visited in the Americas, including all Caribbean island countries.
 That is quite the achievement considering that most of the 27 lesser visited countries are island nations in the Pacific.
 As such, it is not surprising that the processes for tourism in Guyana are not as smooth as one might expect.
@@ -52,7 +52,7 @@ Time to plan a little side trip then!
 The process takes around a week, so be prepared to travel to another country to apply for your visa.
 Martin applied in Paramaribo, Suriname, and will describe the process there in more detail below.
 
-## The Process in Paramaribo
+### The Process in Paramaribo
 The Consul Assistant at the embassy in Paramaribo is responsive via email and can help you navigate the process for a Guyana tourist visa.
 On a high level, this is the process:
 
