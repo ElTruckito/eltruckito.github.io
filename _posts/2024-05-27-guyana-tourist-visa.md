@@ -24,6 +24,7 @@ Exempt are: the United States, Canada, Western Europe, Russia, and roughly half 
 
 Some of Guyanese embassies claim that you can request a [Visa On Arrival][2] but based on information from fellow travelers, this process is either broken or is unreliable.
 The land border with Brazil does not issue on-arrival visas as the officers there don’t know how to process applications for a visa on arrival.
+The online application can be seen as a type of on-arrival Visa since you apply online and receive it once you arrive at the Guyana border.
 
 If you are unlucky enough to not be exempt from needing a tourist visa, you are in for some real fun!
 There are generally two options:
@@ -52,8 +53,8 @@ Time to plan a little side trip then!
 The process takes around a week, so be prepared to travel to another country to apply for your visa.
 Martin applied in Paramaribo, Suriname, and will describe the process there in more detail below.
 
-### The Process in Paramaribo
-The Consul Assistant at the embassy in Paramaribo is responsive via email and can help you navigate the process for a Guyana tourist visa.
+### The Process in Paramaribo, Suriname
+The Consul Assistant at the embassy in Paramaribo, Suriname is responsive via email and can help you navigate the process for a Guyana tourist visa.
 On a high level, this is the process:
 
 1. Email [gep.con-assistant@mission.gov.gy][6] to get started on the process. Request the current application document. Keep in mind that every embassy has a different one. It is not the same application as you would submit online either.
