@@ -101,6 +101,19 @@ section.blog-section {
       padding-bottom: 2em;
       border-bottom: 1px solid #eee;
 
+      // Article Header
+      header.article-header {
+        width: 100%;
+        margin: auto;
+        display: flex;
+
+        .img-wrap {
+          margin: auto;
+          max-width: 100%;
+          max-height: 100%;
+        }
+      }
+
       .author_title {
         text-align: center;
         color: #939aa1;

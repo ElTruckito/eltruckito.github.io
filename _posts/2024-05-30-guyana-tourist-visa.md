@@ -4,7 +4,7 @@ title: "Guyana Tourist Visa HowTo 2024"
 slug: guyana-tourist-visa
 date: 2024-05-20
 categories: [Guyana, Visas, Survival Guide]
-image: penguins-header.webp
+image: guyana.webp
 description: Guyana, the least visited country in the Americas in 2023, poses unique challenges for tourists due to poorly documented and inconsistent visa processes. This guide navigates the confusing landscape of obtaining a Guyana tourist visa, whether online or at embassies. Learn about exemptions, application steps, and the specific process at the Paramaribo embassy. Be prepared for long waits and potential travel to embassies, but this guide aims to streamline your experience.
 ---
 ## Overview of the mess
