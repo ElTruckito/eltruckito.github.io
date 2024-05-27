@@ -98,6 +98,8 @@ section.blog-section {
     }
 
     article.blog-minimal-article {
+      padding-bottom: 2em;
+      border-bottom: 1px solid #eee;
 
       .author_title {
         text-align: center;
@@ -108,6 +110,7 @@ section.blog-section {
       .post_date {
         text-align: center;
         color: #939aa1;
+        margin-bottom: 15px;
       }
 
 

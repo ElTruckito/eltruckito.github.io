@@ -8,6 +8,7 @@ image: campervan-vs-truckcamper.webp
 redirect_from:
   - /overland/2024/02/28/perspectives-outside-of-north-america
   - /overland/2024/02/28/truck-campers-vs-camper-vans
+description: Explore the differences between truck campers and camper vans for overlanding in South America. Our comprehensive guide goes beyond U.S.-centric views, considering factors like chassis choice, fuel availability, road conditions, livability, and serviceability in South America's diverse landscapes. Learn why truck campers may offer a versatile and cost-effective solution for tackling the region's rugged terrain, unpredictable fuel quality, and challenging road conditions.
 ---
 
 “Which is better; truck campers or camper vans?”

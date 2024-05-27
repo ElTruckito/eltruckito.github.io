@@ -30,6 +30,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-minifier
   - jekyll-redirect-from
+  - jekyll-paginate
 
 jekyll-archives:
   enabled:
@@ -60,6 +61,9 @@ jekyll-minifier:
 whitelist:
   - jekyll-redirect-from
 
+paginate: 3
+paginate_path: /blog/page:num/
+
 #######################################################
 #######################################################
 ###############   HEADER INFORMATIONS   ###############
@@ -74,6 +78,8 @@ google_analytics: G-QNB5PNBM5B
 title: El Truckito
 # Website language
 lang: en-US
+# Locale
+locale: en_US
 # Header Title
 header-title: Overlanding the <strong>Americas</strong>
 # Header Tagline
@@ -89,6 +95,20 @@ email: your_email@example.com
 
 author: Martin and Amy
 
+####################################
+######  SEO Settings          ######
+####################################
+# title - already defined above
+tagline: Digital Overlanders
+# description:
+# logo:
+
+social:
+  name: El Truckito
+  links:
+    - https://www.facebook.com/ElTruckito
+    - https://www.instagram.com/eltruckito/
+    - https://www.tiktok.com/@eltruckito
 
 ####################################
 ######  Global Social Links   ######

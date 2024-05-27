@@ -35,28 +35,13 @@
               </div>
               <div class="article-title">
                 <h3 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-                <h4 class="category">{{ post.categories | first }}</h4>
               </div>
             </header>
 
             <!-- Article Content -->
-            <div class="article-content">
-              <div class="article-date text-center">
-<!--                <div class="date parent">-->
-<!--                  <div class="date-wrap child-center">-->
-<!--                    <div class="day">{{ post.date | date: "%d" }}</div>-->
-<!--                    <div class="month">{{ post.date | date: "%b" }}</div>-->
-<!--                  </div>-->
-<!--                </div>-->
-<!--                <div class="time">{{ post.date | date: "%H:%M" }}</div>-->
+              <div class="blog-articles-container">
+                  {{ post.description | strip_html | truncatewords: 50 }}
               </div>
-              <div class="article-text">
-                <p>{{ post.excerpt | strip_html }}</p>
-              </div>
-              <div class="show-more">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="button">Read More</a>
-              </div>
-            </div>
 
           </article>
         </div>
@@ -69,7 +54,7 @@
     <!-- View All Posts CTA -->
     <div class="row view-posts text-center">
       <hr class="normal">
-      <a href="blog.html" class="button-cta button-focus col-md-3 col-sm-5 col-xs-8">View all posts</a>
+      <a href="/blog" class="button-cta button-focus col-md-3 col-sm-5 col-xs-8">View all posts</a>
     </div>
 
   </div>
