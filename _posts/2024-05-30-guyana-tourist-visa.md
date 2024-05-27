@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-minimal
 title: "Guyana Tourist Visa HowTo 2024"
 slug: guyana-tourist-visa
 date: 2024-05-20
@@ -28,18 +28,18 @@ The land border with Brazil does not issue on-arrival visas as the officers ther
 If you are unlucky enough to not be exempt from needing a tourist visa, you are in for some real fun!
 There are generally two options:
 
-1) Apply online at [Guyana Immigration Services][3] and hope you receive an approval
-2) Apply in-person at one of the few embassies or consulates
+1. Apply online at [Guyana Immigration Services][3] and hope you receive an approval
+2. Apply in-person at one of the few embassies or consulates
 
 ## Applying Online
 If you have enough time and do not live anywhere near a physical embassy, you can apply online. Be warned though, as you will be waiting anywhere from 3 months to forever.
 Follow these instructions:
 
-1) Summon all your patience and head to [Guyana Immigration Services][3]
-2) Make an account. If you don’t, you can submit your application, but you won’t be able to track it.
-3) Submit a new [visitor application][4]. The documents required here are different from those required in-person and amongst other things require a hand-written letter requesting your visa. It has to be handwritten and signed. All other requirements are similar to other visa applications.
-4) Wait for 3 or more months.
-5) Eventually your visa will get approved and you can head to a border. You can pay for the visa on the border.
+1. Summon all your patience and head to [Guyana Immigration Services][3]
+2. Make an account. If you don’t, you can submit your application, but you won’t be able to track it.
+3. Submit a new [visitor application][4]. The documents required here are different from those required in-person and amongst other things require a hand-written letter requesting your visa. It has to be handwritten and signed. All other requirements are similar to other visa applications.
+4. Wait for 3 or more months.
+5. Eventually your visa will get approved and you can head to a border. You can pay for the visa on the border.
 
 ## Applying at a Guyanese Embassy or Consulate
 There isn’t a reliably up-to-date list of embassies or diplomatic institutions on the Guyana government website, so [Wikipedia][5] is your best bet.
@@ -56,12 +56,12 @@ Martin applied in Paramaribo, Suriname, and will describe the process there in m
 The Consul Assistant at the embassy in Paramaribo is responsive via email and can help you navigate the process for a Guyana tourist visa.
 On a high level, this is the process:
 
-1) Email [gep.con-assistant@mission.gov.gy][6] to get started on the process. Request the current application document. Keep in mind that every embassy has a different one. It is not the same application as you would submit online either.
-2) Visit the embassy in person for your first visit and submit your application with all supporting documentation. They will take your contact details to set an appointment. They call it an “interview appointment”, but there is no interview involved.
-3) In about a day or two, they will reach out to tell you when to return for an appointment.
-4) Visit #2 will be your appointment. It will take 5 min. You will give them your passport and they will give you a scrap of paper. They don’t issue visas during the appointment.
-5) Wait again, until your visa has been issued. This can take 1-2 days.
-6) Visit #3. Eventually, they will email you that your visa has been approved. In my case, they emailed around 9 AM to tell me that I could pick it up any time. Then, you go to the embassy to get your passport back and pay $40.
+1. Email [gep.con-assistant@mission.gov.gy][6] to get started on the process. Request the current application document. Keep in mind that every embassy has a different one. It is not the same application as you would submit online either.
+2. Visit the embassy in person for your first visit and submit your application with all supporting documentation. They will take your contact details to set an appointment. They call it an “interview appointment”, but there is no interview involved.
+3. In about a day or two, they will reach out to tell you when to return for an appointment.
+4. Visit #2 will be your appointment. It will take 5 min. You will give them your passport and they will give you a scrap of paper. They don’t issue visas during the appointment.
+5. Wait again, until your visa has been issued. This can take 1-2 days.
+6. Visit #3. Eventually, they will email you that your visa has been approved. In my case, they emailed around 9 AM to tell me that I could pick it up any time. Then, you go to the embassy to get your passport back and pay $40.
 
 The embassy is open from 8 AM-1 PM and has a dress code. No short sleeves or short pants are allowed. We have seen underdressed visitors at the embassy, so the rule might not be as strict as it seems.
 

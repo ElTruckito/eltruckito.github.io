@@ -1,0 +1,34 @@
+---
+layout: blog-minimal
+---
+
+<!-- Blog Article -->
+<div class="post-full">
+<article class="blog-minimal-article clearfix">
+  <h1>{{ page.title }}</h1>
+
+  <div>
+    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
+    {% if page.last_modified_at %}
+    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
+    {% endif %}
+    <div class="post-categories">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/category/{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+  </div>
+
+  {{ content }}
+
+  {% include share-box.html %}
+
+  {% include disqus.html %}
+</article>
+</div>

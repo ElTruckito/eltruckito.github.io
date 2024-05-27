@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-minimal
 title: "Truck Campers vs. Camper Vans: Perspectives Outside of North America"
 slug: truck-campers-vs-camper-vans
 date: 2024-02-28

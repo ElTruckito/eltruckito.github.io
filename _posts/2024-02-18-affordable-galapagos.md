@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-minimal
 title: "Economical Escape: Tips for an Affordable Galapagos Experience"
 slug: affordable-galapagos
 date: 2024-02-18

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-minimal
 title: "Laguna Route Survival Guide"
 slug: laguna-route-survival-guide
 date: 2023-09-26
