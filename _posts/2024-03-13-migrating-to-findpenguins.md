@@ -3,8 +3,7 @@ layout: post-minimal
 title: "Migrating from Polarsteps to FindPenguins"
 slug: migrating-from-polarsteps-to-findpenguins
 date: 2024-03-13
-categories: [Overland]
-tags: [Overland, Technology]
+categories: [Overland, Technology, Partners]
 image: penguins-header.webp
 redirect_from:
   - /overland/2024/03/13/migrating-from-polarsteps-to-findpenguins

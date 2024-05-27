@@ -3,8 +3,7 @@ layout: post-minimal
 title: "Economical Escape: Tips for an Affordable Galapagos Experience"
 slug: affordable-galapagos
 date: 2024-02-18
-categories: [Ecuador]
-tags: [Galapagos, Ecuador, South America]
+categories: [Ecuador, Galapagos, South America, Survival Guide]
 image: galapagos-tortoise.webp
 redirect_from:
   - /ecuador/2024/02/18/affordable-galapagos

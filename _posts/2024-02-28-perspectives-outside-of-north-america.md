@@ -3,8 +3,7 @@ layout: post-minimal
 title: "Truck Campers vs. Camper Vans: Perspectives Outside of North America"
 slug: truck-campers-vs-camper-vans
 date: 2024-02-28
-categories: [Overland]
-tags: [Overland, Truck Campers, South America]
+categories: [Overland, Truck Campers, South America]
 image: campervan-vs-truckcamper.webp
 redirect_from:
   - /overland/2024/02/28/perspectives-outside-of-north-america

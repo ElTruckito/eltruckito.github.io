@@ -3,8 +3,7 @@ layout: post-minimal
 title: "Guyana Tourist Visa HowTo 2024"
 slug: guyana-tourist-visa
 date: 2024-05-20
-categories: [Guyana]
-tags: [Visas, Survival Guide]
+categories: [Guyana, Visas, Survival Guide]
 image: penguins-header.webp
 ---
 ## Overview of the mess

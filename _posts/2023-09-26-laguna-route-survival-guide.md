@@ -3,8 +3,7 @@ layout: post-minimal
 title: "Laguna Route Survival Guide"
 slug: laguna-route-survival-guide
 date: 2023-09-26
-categories: [Bolivia]
-tags: [Laguna Route, Bolivia, Overland, Survival Guide, South America]
+categories: [Bolivia, Laguna Route, Overland, Survival Guide, South America]
 image: truckito-laguna.webp
 redirect_from:
   - /bolivia/2023/09/26/laguna-route-survival-guide
