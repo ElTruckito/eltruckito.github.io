@@ -12,13 +12,13 @@ Guyana is the 28th __least visited country__ in 2023 and the least visited in th
 That is quite the achievement considering that most of the 27 lesser visited countries are island nations in the Pacific.
 As such, it is not surprising that the processes for tourism in Guyana are not as smooth as one might expect.
 
-The process of acquiring a Guyana tourist visa is not complicated but is poorly documented.
+The process of acquiring a Guyana tourist visa is not complicated, but is poorly documented.
 Even Guyanese officials don’t always know their own nation’s policies!
 The internet is, unsurprisingly, littered with incorrect information.
 
 Who requires a Guyana tourist visa? The visa policy is completely random and does not follow any logic.
 The best resource is [Visa Policy of Guyana][1].
-Countries that need visas are some of Central America, Venezuela, and parts of the ex-Eastern block such as Slovakia or Hungary.
+Countries that need visas are some of Central America, Venezuela, and parts of the ex-Eastern bloc such as Slovakia or Hungary.
 
 Exempt are: the United States, Canada, Western Europe, Russia, and roughly half of Latin America.
 
