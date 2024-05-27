@@ -15,22 +15,19 @@ It’s legendary within the community for good reason: the high altitude, alien 
 
 If you have yet to be deterred by the tales of your fellow travelers, here is some advice we can impart to make your voyage through this treasure of the Altiplano safer and, hopefully, less frustrating.
 
-1. [1) How do you prevent frozen diesel and/or liquid coolant?](#how-do-you-prevent-frozen-diesel-andor-liquid-coolant)
-2. [2) What do you do about the lack of fuel availability?](#what-do-you-do-about-the-lack-of-fuel-availability)
-3. [3) How do you navigate without road maps?](#how-do-you-navigate-without-road-maps)
-4. [4) How do you survive the extreme road conditions?](#how-do-you-survive-the-extreme-road-conditions)
+1. [How do you prevent frozen diesel and/or liquid coolant?](#how-do-you-prevent-frozen-diesel-andor-liquid-coolant)
+2. [What do you do about the lack of fuel availability?](#what-do-you-do-about-the-lack-of-fuel-availability)
+3. [How do you navigate without road maps?](#how-do-you-navigate-without-road-maps)
+4. [How do you survive the extreme road conditions?](#how-do-you-survive-the-extreme-road-conditions)
 
 ## How do you prevent frozen diesel and/or liquid coolant?
 
 If your rig operates on diesel, you are in for a treat! The nightly temperatures at these altitudes are -20 ºC (-4 ºF) and average around 3 ºC (37 ºF) during the day. The temperatures also do not vary throughout the year, so there is, unfortunately, no way to avoid these conditions by visiting at the “best time”. Regardless of what type of vehicle you’re roving in, your coolant liquid freezing is an issue that could impact your adventure. If you are camping in the park this is a very common occurrence and is best averted with a few simple steps.
 
 ### Follow these steps
-
-1) Park your vehicle overnight with the engine or diesel tank facing toward the sunrise. Depending on where you camp and the temperature there, it may be impossible to avoid something freezing. If this does happen, you will want your engine or tank facing the sunrise as this will thaw the liquid over the course of a few hours. Plan accordingly, as it is possible you may not be able to resume your journey until the afternoon.
-
-2) For diesel vehicles: Locals remove diesel filters, because they take longer to defrost. If you have access to them, additives can prevent frozen diesel in the first place.
-
-3) For engine coolant: antifreeze coolant is your friend. This is not common in older vehicles and will need to be purchased.
+1. Park your vehicle overnight with the engine or diesel tank facing toward the sunrise. Depending on where you camp and the temperature there, it may be impossible to avoid something freezing. If this does happen, you will want your engine or tank facing the sunrise as this will thaw the liquid over the course of a few hours. Plan accordingly, as it is possible you may not be able to resume your journey until the afternoon.
+2. For diesel vehicles: Locals remove diesel filters, because they take longer to defrost. If you have access to them, additives can prevent frozen diesel in the first place.
+3. For engine coolant: antifreeze coolant is your friend. This is not common in older vehicles and will need to be purchased.
 
 
 ## What do you do about the lack of fuel availability?

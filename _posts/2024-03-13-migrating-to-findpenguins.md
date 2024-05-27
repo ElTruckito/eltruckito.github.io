@@ -38,13 +38,10 @@ The sentimental value attached to revisiting these moments is immeasurable, addi
 ## Find Penguins and their Digital Safety
 
 Polarsteps only has two to four safety modes:
-
-    1. Your tracker is public for anyone to see
-    2. Your tracker is friends only and you add people you have personally met and trust
-    3. Your tracker is friends only and you add the absolute minimum of friends and family
-    4. Your tracker is private and nobody can see it
-
-&nbsp;
+1. Your tracker is public for anyone to see
+2. Your tracker is friends only and you add people you have personally met and trust
+3. Your tracker is friends only and you add the absolute minimum of friends and family
+4. Your tracker is private and nobody can see it
 
 In our case, we opted for the fourth option, ensuring our tracker remains entirely private.
 While option three, limiting visibility to friends and family, might be considered somewhat acceptable, we chose to prioritize our privacy and safety.
@@ -117,16 +114,11 @@ This spares users the complexities associated with manual coding.
 Go to [https://findpenguins.com/import/s/polarsteps](https://findpenguins.com/import/s/polarsteps) and upload your _“users_data.zip”_ file.
 
 
-Step 1) Upload your Polarsteps data
-
+1. Upload your Polarsteps data
 ![Alt][4]
-
-Step 2) Select your trips
-
+2. Select your trips
 ![Alt][5]
-
-Step 3) Profit!
-
+3. Profit!
 ![Alt][6]
 
 ### Finishing touches
@@ -138,16 +130,11 @@ Despite these minor considerations, the overall benefits of the migration proces
 
 Here are the steps for the process:
 
-1) Find a route that lacks proper routing
-
+1. Find a route that lacks proper routing
 ![Alt][7]{: width="50%"}
-
-2) Click on “auto route”
-
+2. Click on “auto route”
 ![Alt][8]{: width="50%"}
-
-3) Profit!
-
+3. Profit!
 ![Alt][9]{: width="50%"}
 
 Once your corrections are made you will have a more visually-pleasing and accurate map.
