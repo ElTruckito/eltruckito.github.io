@@ -66,6 +66,11 @@ On a high level, this is the process:
 
 The embassy is open from 8 AM-1 PM and has a dress code. No short sleeves or short pants are allowed. We have seen underdressed visitors at the embassy, so the rule might not be as strict as it seems.
 
+## In Conclusion
+In conclusion, getting a tourist visa for Guyana is like playing an absurd game where posted rules are either nonexistent or contradictory, the referees are clueless, and the prize is a trip to the least visited country in the Americas. 
+
+If you need to get a tourist visa for Guyana all we can say is have fun! 
+
 
 [1]: https://en.wikipedia.org/wiki/Visa_policy_of_Guyana "Visa Policy of Guyana"
 [2]: https://www.embassyofguyana.be/services.php?sid=30 "Visa on Arrival"
