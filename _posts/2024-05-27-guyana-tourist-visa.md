@@ -1,6 +1,6 @@
 ---
 layout: post-minimal
-title: "Guyana Tourist Visa How To 2024"
+title: "How to Get a Guyana Tourist Visa in 2024"
 slug: guyana-tourist-visa
 date: 2024-05-27
 categories: [Guyana, Visas, Survival Guide]
