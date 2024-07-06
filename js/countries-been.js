@@ -19,9 +19,9 @@ am5.ready(function () {
                 {"id": "SR", "year": "2024"},
                 {"id": "GF", "year": "2024"},
                 {"id": "GY", "year": "2024"},
-                // {"id": "PA", "year": "2024"},
-                // {"id": "CR", "year": "2024"},
-                // {"id": "NI", "year": "2024"},
+                {"id": "PA", "year": "2024"},
+                {"id": "CR", "year": "2024"},
+                {"id": "NI", "year": "2024"},
                 // {"id": "SV", "year": "2024"},
                 // {"id": "HN", "year": "2024"},
                 // {"id": "GT", "year": "2024"},
@@ -38,8 +38,8 @@ am5.ready(function () {
 // Create root and chart
     var root = am5.Root.new("chartdiv");
 
-    // currently PANAMA
-    var rotation_current_country = {y: 8.5380, x: -80.7821}
+    // currently Nicaragua 
+    var rotation_current_country = {y: 12.8654, x: -85.2072}
 
 // Create chart
     var chart = root.container.children.push(am5map.MapChart.new(root, {
