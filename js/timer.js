@@ -1,6 +1,6 @@
 window.onload = function () {
-    var start_timestamp = new Date("Nov 1, 2022 19:29:00 UTC");
-    countUpFromTime(start_timestamp.getTime(), 'departure_from_houston');
+    var start_timestamp = new Date("Oct 23, 2022 11:45:00 UTC");
+    countUpFromTime(start_timestamp.getTime(), 'departure_from_boston');
 };
 
 function countUpFromTime(countFrom, id) {
