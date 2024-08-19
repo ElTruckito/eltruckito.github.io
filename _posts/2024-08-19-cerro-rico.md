@@ -1,15 +1,19 @@
 ---
+title: 'Cerro Rico Tourism: Exploring the Terrifying Realities of Mining'
 layout: post-minimal
-title: "Cerro Rico Tourism: Exploring the Terrifying Realities of Mining"
 slug: cerro-rico-tourism
-date: 2024-08-19T00:00:00.000Z
+date: '2024-08-19 00:00:00 +0000'
 categories:
-  - Bolivia
-  - Cerro Rico
-  - Tourism
+- Bolivia
+- Cerro Rico
+- Tourism
 image: cerro_rico.webp
-description: Cerro Rico tourism exposes the brutal realities of Potosí’s historic silver mine, offering a harsh glimpse into the grueling conditions faced by miners both past and present. Learn about the ethical dilemmas and impact of visiting this unforgettable piece of Bolivian history.
+description: Cerro Rico tourism exposes the brutal realities of Potosí’s historic
+  silver mine, offering a harsh glimpse into the grueling conditions faced by miners
+  both past and present. Learn about the ethical dilemmas and impact of visiting this
+  unforgettable piece of Bolivian history.
 ---
+
 Cerro Rico tourism offers an unforgettable and eye-opening Bolivian experience, but it is also not for the faint of heart. Cerro Rico tourism offers an unforgettable and eye-opening experience in Potosí, Bolivia. This historic mine, once a cornerstone of Spanish colonial wealth, now stands as a stark reminder of the grueling labor and perilous conditions endured by miners, both past and present. Venturing into the depths of Cerro Rico is both terrifying and essential, providing a raw and unfiltered glimpse into the harsh realities of mining and those who partake in this perilous profession.
 
 ## History of the mine
