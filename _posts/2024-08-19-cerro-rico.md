@@ -94,10 +94,10 @@ We believe that tours run by former miners are the most likely to be engaged in 
 Cerro Rico tourism provides a unique and shocking opportunity to understand and learn about one of the world’s most historically significant mines. This experience is both terrifying and essential, offering a raw glimpse into the brutal conditions faced by miners past and present. As travelers, it is crucial to recognize the impact of our actions and strive to promote ethical and responsible tourism practices. By approaching your visit with respect and responsibility, you can contribute to raising awareness and supporting positive change for the mining community in Potosi. 
 
 
-[1]: /images/blog/cerrorico/altar.jpg "Cerro Rico Tourism"
-[2]: /images/blog/cerrorico/dynamite.png "Cerro Rico Tourism"
-[3]: /images/blog/cerrorico/tunnel.png "Cerro Rico Tourism"
-[4]: /images/blog/cerrorico/cart.png "Cerro Rico Tourism"
-[5]: /images/blog/cerrorico/eltio.jpeg "Cerro Rico Tourism"
-[6]: /images/blog/cerrorico/cerroricomtn.jpeg "Cerro Rico Tourism"
-[7]: /images/blog/cerrorico/martincerrorico.png "Cerro Rico Tourism"
+[1]: /images/blog/cerrorico/altar.webp "Cerro Rico Tourism"
+[2]: /images/blog/cerrorico/dynamite.webp "Cerro Rico Tourism"
+[3]: /images/blog/cerrorico/tunnel.webp "Cerro Rico Tourism"
+[4]: /images/blog/cerrorico/cart.webp "Cerro Rico Tourism"
+[5]: /images/blog/cerrorico/eltio.webp "Cerro Rico Tourism"
+[6]: /images/blog/cerrorico/CerroRicoMtn.webp "Cerro Rico Tourism"
+[7]: /images/blog/cerrorico/MartinCerroRico.webp "Cerro Rico Tourism"
