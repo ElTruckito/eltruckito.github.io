@@ -50,6 +50,8 @@ Entering Cerro Rico is like stepping straight into Hell. The darkness, even with
 
 As you scurry after your tour guide and dodge oncoming mining carts, the temperature will drop and the tunnels will become increasingly confined. Guides are typically former miners and know the tunnels well. They have harrowing stories of their experiences working here with the dangerous working conditions, where accidents are frequent and the risk of cave-ins is ever-present. The lack of proper ventilation makes breathing difficult, and the ever-present dust poses serious health risks, including silicosis, a debilitating lung disease common among miners.
 
+![Alt][2]
+
 Meeting the miners is perhaps the most poignant part of the tour. These individuals work long hours, 10-12 if they’re fortunate, in grueling conditions, driven by the hope of finding valuable minerals to support their families. If they don’t strike something of value, they could be underground in the dark for more than 24 hours before emerging. Despite the hardships, there is a sense of camaraderie and resilience among them.
 
 One of the most striking aspects of the miners' culture is their relationship with El Tío, a deity revered as the lord of the underworld. Statues of El Tío, often depicted with a devilish appearance, are found throughout the mine. Miners make regular offerings to El Tío, including coca leaves, cigarettes, and alcohol, in hopes of securing his protection and favor. The worship of El Tío is exclusive to the underground and stems from the belief among the miners that “there is no God in the mines.”
@@ -82,4 +84,5 @@ We believe that tours run by former miners are the most likely to be engaged in 
 Cerro Rico tourism provides a unique and shocking opportunity to understand and learn about one of the world’s most historically significant mines. This experience is both terrifying and essential, offering a raw glimpse into the brutal conditions faced by miners past and present. As travelers, it is crucial to recognize the impact of our actions and strive to promote ethical and responsible tourism practices. By approaching your visit with respect and responsibility, you can contribute to raising awareness and supporting positive change for the mining community in Potosi. 
 
 
-[1]: /images/blog/cerrorico/altar.jpg "Cerro Rico Altar"
+[1]: /images/blog/cerrorico/altar.jpg "Cerro Rico Tourism"
+[2]: /images/blog/cerrorico/dynamite.png "Cerro Rico Tourism"
