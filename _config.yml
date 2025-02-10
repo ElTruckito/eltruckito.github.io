@@ -234,6 +234,10 @@ team:
              electrical outlets.
     avatar: truckito.webp
 
+  # Team Member
+  - name: Tundra
+    tagline: "Clove-Tundra Vom Schön Traumhund. Softest ears on the planet. Also called gremlin or raptor"
+    avatar: tundra.webp
 
 #####################################
 ############   Contact   ############

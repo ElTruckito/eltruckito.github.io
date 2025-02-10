@@ -27,7 +27,7 @@ am5.ready(function () {
                 {"id": "GT", "year": "2024"},
                 {"id": "BZ", "year": "2024"},
                 {"id": "MX", "year": "2024"},
-                // {"id": "CA", "year": "2024"},
+                {"id": "CA", "year": "2024"},
             ]
         },
     ];
@@ -37,14 +37,14 @@ am5.ready(function () {
     var root = am5.Root.new("chartdiv");
 
     // currently Mexico
-    var rotation_current_country = {y: 23.6260333, x: -102.5375005}
+    var rotation_current_country = {y: 42.3555, x: -71.0565}
 
 // Create chart
     var chart = root.container.children.push(am5map.MapChart.new(root, {
         panX: "rotateX",
         panY: "rotateY",
         rotationX: -rotation_current_country.x,
-        rotationY: rotation_current_country.y,
+        rotationY: -rotation_current_country.y,
         projection: am5map.geoOrthographic(),
     }));
 
@@ -60,7 +60,7 @@ am5.ready(function () {
     });
 
     worldSeries.events.on("datavalidated", function () {
-        const zoomTargets = ["PA", "MX"];
+        const zoomTargets = ["US", "CO"];
         const zoomDataItems = [];
         zoomTargets.forEach(function (id) {
             zoomDataItems.push(worldSeries.getDataItemById(id));
