@@ -46,7 +46,7 @@ am5.ready(function () {
                 { id: "US-FL", year: "2021" }, // Florida
                 { id: "US-GA", year: "2021" }, // Georgia
                 // { id: "US-HI", year: "2024" }, // Hawaii
-                // { id: "US-ID", year: "2024" }, // Idaho
+                { id: "US-ID", year: "2024" }, // Idaho
                 { id: "US-IL", year: "2024" }, // Illinois
                 { id: "US-IN", year: "2021" }, // Indiana
                 { id: "US-IA", year: "2021" }, // Iowa
@@ -71,7 +71,7 @@ am5.ready(function () {
                 { id: "US-ND", year: "2020" }, // North Dakota
                 { id: "US-OH", year: "2020" }, // Ohio
                 { id: "US-OK", year: "2021" }, // Oklahoma
-                // { id: "US-OR", year: "2024" }, // Oregon
+                { id: "US-OR", year: "2024" }, // Oregon
                 { id: "US-PA", year: "2020" }, // Pennsylvania
                 { id: "US-RI", year: "2020" }, // Rhode Island
                 { id: "US-SC", year: "2022" }, // South Carolina
@@ -83,7 +83,7 @@ am5.ready(function () {
                 { id: "US-VA", year: "2022" }, // Virginia
                 // { id: "US-WA", year: "2024" }, // Washington
                 { id: "US-WV", year: "2022" }, // West Virginia
-                // { id: "US-WI", year: "2024" }, // Wisconsin
+                { id: "US-WI", year: "2024" }, // Wisconsin
                 { id: "US-WY", year: "2020" }  // Wyoming
             ]
         },
