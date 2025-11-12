@@ -36,7 +36,7 @@ am5.ready(function () {
             geoJSON: am5geodata_usaLow,
             data: [
                 { id: "US-AL", year: "2022" }, // Alabama
-                // { id: "US-AK", year: "2024" }, // Alaska
+                { id: "US-AK", year: "2025" }, // Alaska
                 { id: "US-AZ", year: "2024" }, // Arizona
                 { id: "US-AR", year: "2021" }, // Arkansas
                 { id: "US-CA", year: "2020" }, // California
@@ -46,7 +46,7 @@ am5.ready(function () {
                 { id: "US-FL", year: "2021" }, // Florida
                 { id: "US-GA", year: "2021" }, // Georgia
                 // { id: "US-HI", year: "2024" }, // Hawaii
-                { id: "US-ID", year: "2024" }, // Idaho
+                { id: "US-ID", year: "2025" }, // Idaho
                 { id: "US-IL", year: "2024" }, // Illinois
                 { id: "US-IN", year: "2021" }, // Indiana
                 { id: "US-IA", year: "2021" }, // Iowa
@@ -71,7 +71,7 @@ am5.ready(function () {
                 { id: "US-ND", year: "2020" }, // North Dakota
                 { id: "US-OH", year: "2020" }, // Ohio
                 { id: "US-OK", year: "2021" }, // Oklahoma
-                { id: "US-OR", year: "2024" }, // Oregon
+                { id: "US-OR", year: "2025" }, // Oregon
                 { id: "US-PA", year: "2020" }, // Pennsylvania
                 { id: "US-RI", year: "2020" }, // Rhode Island
                 { id: "US-SC", year: "2022" }, // South Carolina
@@ -81,9 +81,9 @@ am5.ready(function () {
                 { id: "US-UT", year: "2024" }, // Utah
                 { id: "US-VT", year: "2020" }, // Vermont
                 { id: "US-VA", year: "2022" }, // Virginia
-                // { id: "US-WA", year: "2024" }, // Washington
+                { id: "US-WA", year: "2025" }, // Washington
                 { id: "US-WV", year: "2022" }, // West Virginia
-                { id: "US-WI", year: "2024" }, // Wisconsin
+                { id: "US-WI", year: "2025" }, // Wisconsin
                 { id: "US-WY", year: "2020" }  // Wyoming
             ]
         },
@@ -91,19 +91,19 @@ am5.ready(function () {
             name: "Canadian Provinces",
             geoJSON: am5geodata_canadaLow,
             data: [
-                // { id: "CA-AB", year: "2025" }, // Alberta
-                // { id: "CA-BC", year: "2025" }, // British Columbia
+                { id: "CA-AB", year: "2025" }, // Alberta
+                { id: "CA-BC", year: "2025" }, // British Columbia
                 // { id: "CA-MB", year: "2024" }, // Manitoba
                 // { id: "CA-NB", year: "2024" }, // New Brunswick
                 // { id: "CA-NL", year: "2024" }, // Newfoundland and Labrador
                 // { id: "CA-NS", year: "2024" }, // Nova Scotia
-                // { id: "CA-NT", year: "2025" }, // Northwest Territories
+                { id: "CA-NT", year: "2025" }, // Northwest Territories
                 // { id: "CA-NU", year: "2024" }, // Nunavut
                 { id: "CA-ON", year: "2024" }, // Ontario
                 // { id: "CA-PE", year: "2024" }, // Prince Edward Island
                 // { id: "CA-QC", year: "2024" }, // Quebec
                 // { id: "CA-SK", year: "2024" }, // Saskatchewan
-                // { id: "CA-YT", year: "2025" }  // Yukon
+                { id: "CA-YT", year: "2025" }  // Yukon
             ]
         }
     ];
